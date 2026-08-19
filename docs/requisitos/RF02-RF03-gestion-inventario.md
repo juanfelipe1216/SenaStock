@@ -26,3 +26,10 @@ Módulo de Consulta y Gestión de Inventario.
 ## Estado
 
 En desarrollo.
+
+## Operaciones contempladas
+
+- Consultar activos.
+- Filtrar inventario.
+- Actualizar información.
+- Eliminar o dar de baja activos.
